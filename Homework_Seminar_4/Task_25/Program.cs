@@ -12,7 +12,7 @@ int b = int.Parse(Console.ReadLine());
 
 int result = a;
 
-for(int i =1; i < b; i++)
+for(int i = 1; i < b; i++)
 {
     result = result*a;
     
